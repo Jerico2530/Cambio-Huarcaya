@@ -1,0 +1,9 @@
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\bin\Debug\CapaDatos.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\obj\Debug\CapaDatos.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaDatos\obj\Debug\CapaDatos.pdb

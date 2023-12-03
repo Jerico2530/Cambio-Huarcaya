@@ -1,0 +1,11 @@
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\CambioHuarcaya\CambioHuarcaya\CapaNegocio\obj\Debug\CapaNegocio.pdb
