@@ -1,6 +1,6 @@
 # Sistema de Cambio de Divisas (SCD)
 
-El **Sistema de Cambio de Divisas (SCD)** es una aplicación de escritorio desarrollada en C# utilizando la tecnología Windows Forms, formando parte del entorno .NET Framework. 
+El **Sistema de Cambio de Divisas (SCD)** es una aplicación de escritorio desarrollada en C# utilizando la tecnología Windows Forms y Sql Server, formando parte del entorno .NET Framework. 
 Proporciona una solución integral para la gestión de operaciones de cambio de divisas, ofreciendo características avanzadas y una interfaz de usuario intuitiva.
 
 ## Características Destacadas
